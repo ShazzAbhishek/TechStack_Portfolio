@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on ABHISHEK SHASTRY HM</title>
+    <link>https://shazzabhishek.github.io/TechStack_Portfolio/post/</link>
+    <description>Recent content in Projects on ABHISHEK SHASTRY HM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://shazzabhishek.github.io/TechStack_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I:CreditScoreAnalysis</title>
+      <link>https://shazzabhishek.github.io/TechStack_Portfolio/post/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shazzabhishek.github.io/TechStack_Portfolio/post/project1/</guid>
+      <description>Classified the defaulter and non defaulter (1 and 0) people with credit score dataset using end to end supervised classification machine Learning analysis. Implemnented Logistic, KNN, RandomForest, Decison Tree, Naive Bayes Techniques. Used Ensembler methods, feature engineering. techniques to enhance the accuracy and performance. The data set is from Kaggle website  GitHub Link Repository</description>
+    </item>
+    
+    <item>
+      <title>Project II: Text Classification using natural language processing</title>
+      <link>https://shazzabhishek.github.io/TechStack_Portfolio/post/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shazzabhishek.github.io/TechStack_Portfolio/post/project2/</guid>
+      <description>Collected labeled dataset from Annotators as either to be pro lockdowns, pro-mask-wearing or pro-vaccination. Calculated Cohen’s Kappa Score and multiple classification modeling were used. (11% increase in accuracy) Feature engineering: Regular Expression, Stop Words, Stemming, Tokenization, N-gram, and Word Frequency thereby improving accuracy further by 4 percent.  GitHub Link Repository</description>
+    </item>
+    
+    <item>
+      <title>Project III: Google Cloud Platform Deployment</title>
+      <link>https://shazzabhishek.github.io/TechStack_Portfolio/post/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shazzabhishek.github.io/TechStack_Portfolio/post/project3/</guid>
+      <description>GitHub Link Repository</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Big Data Research paper in finance</title>
+      <link>https://shazzabhishek.github.io/TechStack_Portfolio/post/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shazzabhishek.github.io/TechStack_Portfolio/post/project4/</guid>
+      <description>GitHub Link Repository</description>
+    </item>
+    
+    <item>
+      <title>Project V: Exploratory Data Analysis</title>
+      <link>https://shazzabhishek.github.io/TechStack_Portfolio/post/project5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shazzabhishek.github.io/TechStack_Portfolio/post/project5/</guid>
+      <description>GitHub Link Repository</description>
+    </item>
+    
+    <item>
+      <title>Project VI: Data Mining and generate Open Neural Network Exchange Model </title>
+      <link>https://shazzabhishek.github.io/TechStack_Portfolio/post/project6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shazzabhishek.github.io/TechStack_Portfolio/post/project6/</guid>
+      <description>Implemented random classification supervised machine learning algorithm on 0.1 million rows on a random data set. Performed end to end data preprocessing steps multiple times to improve the overall accuracy of the model. Simulated on different sets of data over and over again to increase prediction accuracy. Outcomes: It is not the accuracy that is merely important. How well your model responds to a new set of data is crucial.</description>
+    </item>
+    
+  </channel>
+</rss>

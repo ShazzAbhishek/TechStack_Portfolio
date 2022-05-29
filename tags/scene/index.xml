@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on ABHISHEK SHASTRY HM</title>
+    <link>https://shazzabhishek.github.io/TechStack_Portfolio/tags/scene/</link>
+    <description>Recent content in scene on ABHISHEK SHASTRY HM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://shazzabhishek.github.io/TechStack_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I:CreditScoreAnalysis</title>
+      <link>https://shazzabhishek.github.io/TechStack_Portfolio/post/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shazzabhishek.github.io/TechStack_Portfolio/post/project1/</guid>
+      <description>Classified the defaulter and non defaulter (1 and 0) people with credit score dataset using end to end supervised classification machine Learning analysis. Implemnented Logistic, KNN, RandomForest, Decison Tree, Naive Bayes Techniques. Used Ensembler methods, feature engineering. techniques to enhance the accuracy and performance. The data set is from Kaggle website  GitHub Link Repository</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Big Data Research paper in finance</title>
+      <link>https://shazzabhishek.github.io/TechStack_Portfolio/post/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shazzabhishek.github.io/TechStack_Portfolio/post/project4/</guid>
+      <description>GitHub Link Repository</description>
+    </item>
+    
+  </channel>
+</rss>
